@@ -2,7 +2,7 @@ name: testing
 
 on:
  push:
- pull_request:
+ push:
 
 jobs:
   rspec:
